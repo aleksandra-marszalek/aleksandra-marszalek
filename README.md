@@ -6,7 +6,7 @@ I'm an experienced Technical Lead and Senior Backend Engineer specializing in Ja
 Beyond this, I'm deeply interested in promoting diversity, equality, and creating a supportive workplace atmosphere.
 
 🏅 In my free time, I am an accomplished ultimate frisbee player, having represented both Great Britain and Poland internationally on numerous occasions. 
-📖🌴 I'm also an avid reader, enjoy watching films, exploring new places, and extend my passion for helping others by mentoring individuals seeking their first job in IT.
+</br> 📖🌴 I'm also an avid reader, enjoy watching films, exploring new places, and extend my passion for helping others by mentoring individuals seeking their first job in IT.
 
 ### 💻 What will you find here?
 
