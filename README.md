@@ -1,16 +1,20 @@
 ## Hi there 👋
 
 ### 🤔 Who am I?
-I'm an experienced Technical Lead and Senior Backend Engineer specialising in Java. I'm passionate about crafting high-quality architectural solutions while closely collaborating with the business. I find fulfilment in overcoming challenges and consistently delivering excellence in my work. Beyond this, I have a keen interest in diversity, equality, and creating a supportive atmosphere in the workplace.
 
-### 💻 What can you find here?
+I'm an experienced Technical Lead and Senior Backend Engineer specializing in Java. My passion lies in crafting high-quality architectural solutions while fostering close collaboration with the business. I find fulfillment in overcoming challenges and consistently delivering excellence in my work. 
+Beyond this, I'm deeply interested in promoting diversity, equality, and creating a supportive workplace atmosphere.
 
-You can see I'm not very active here, as I'm very busy in my day to day work, but I'm planning to add some playground projects here to keep it a bit more interested. I'm interested in new technologies, in AI and ML and in general, in everything that can make my work easier in the future.
+🏅 In my free time, I am an accomplished ultimate frisbee player, having represented both Great Britain and Poland internationally on numerous occasions. 
+📖🌴 I'm also an avid reader, enjoy watching films, exploring new places, and extend my passion for helping others by mentoring individuals seeking their first job in IT.
+
+### 💻 What will you find here?
+
+While I'm not as active on GitHub due to my busy day-to-day work, I'm planning to add some intriguing playground projects to keep things interesting. My curiosity extends to new technologies, AI, and ML. I'm fascinated by anything that can streamline and enhance my work in the future.
 
 ### 📩 How to reach me?
 
-Check out my <a href="https://www.linkedin.com/in/aleksandramarszalek/">LinkedIn profile</a> and feel free to contact me there 🤝
-
+Check out my [LinkedIn profile](https://www.linkedin.com/in/aleksandramarszalek/) and feel free to connect with me there 🤝
 
 
 
