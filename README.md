@@ -10,11 +10,12 @@ Beyond this, I'm deeply interested in promoting diversity, equality, and creatin
 
 ### 💻 What will you find here?
 
-While I'm not as active on GitHub due to my busy day-to-day work, I'm planning to add some intriguing playground projects to keep things interesting. My curiosity extends to new technologies, AI, and ML. I'm fascinated by anything that can streamline and enhance my work in the future.
+After 6 years in tech, climbing the ladder from Junior Software Engineer to Tech Lead, I took a career break. I'm coming back and intending to find my own way in the changing tech world. Still focused on the BE development, I am trying my best to optimise my code, focusing on clean, efficient architecture, with a little FE fun from time to time.
+My curiosity extends to new technologies, AI, and ML. I'm fascinated by anything that can streamline and enhance my work in the future.
 
 ### 📩 How to reach me?
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/aleksandramarszalek/) and feel free to connect with me there 🤝
+Check out my [Personal website](https://www.aleksandramarszalek.co.uk/) or [LinkedIn profile](https://www.linkedin.com/in/aleksandramarszalek/) and feel free to connect with me there 🤝
 
 
 
