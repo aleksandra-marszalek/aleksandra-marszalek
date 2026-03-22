@@ -10,7 +10,7 @@ Beyond this, I'm deeply interested in promoting diversity, equality, and creatin
 
 ### 💻 What will you find here?
 
-After 6 years in tech, climbing the ladder from Junior Software Engineer to Tech Lead, I took a career break. I'm coming back and intending to find my own way in the changing tech world. Still focused on the BE development, I am trying my best to optimise my code, focusing on clean, efficient architecture, with a little FE fun from time to time.
+After 7 years in tech, climbing the ladder from Graduate Software Engineer to Tech Lead, I took a career break. I'm coming back and intending to find my own way in the changing tech world. Still focused on the BE development, I am trying my best to optimise my code, focusing on clean, efficient architecture, with a little FE fun from time to time.
 My curiosity extends to new technologies, AI, and ML. I'm fascinated by anything that can streamline and enhance my work in the future.
 
 ### 📩 How to reach me?
